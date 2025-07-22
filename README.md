@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**AryamanDubeyy/AryamanDubeyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# README.md
 
-Here are some ideas to get you started:
+Hello! My name is Aryaman Dubey and I currently study in VIT, Vellore
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've been working with Minecraft servers for a while, which sparked my interest in Java. I've recently started learning it more seriously to improve my development skills.
+
+- 🔭 I’m currently working on a game server, 
+- 🌱 I’m currently learning Python , Java
+- 💬 Ask me about games! Oh I love games
+- 📫 How to reach me: discord- @seskyhyper
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: I like games
